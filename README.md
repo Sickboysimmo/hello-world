@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-Hi I`m Lee from Nottingham UK
+Hi I`m Simmo from Nottingham UK
